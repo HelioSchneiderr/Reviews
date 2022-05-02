@@ -42,7 +42,7 @@ const img = document.getElementById("image");
 const author = document.getElementById("name");
 const job = document.getElementById("func");
 const info = document.getElementById("descrition");
-
+const btns = document.getElementsByClassName("btns")
 const left = document.querySelector(".left");
 const rigth = document.querySelector(".rigth");
 const random = document.querySelector(".center");
